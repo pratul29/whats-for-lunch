@@ -1,0 +1,1136 @@
+[
+  {
+    "ingredient": "chili green",
+    "descriptor": [
+      "raw"
+    ],
+    "id": 0
+  },
+  {
+    "ingredient": "chili red",
+    "descriptor": [
+      "raw"
+    ],
+    "id": 1
+  },
+  {
+    "ingredient": "ginger",
+    "descriptor": [
+      "raw"
+    ],
+    "id": 2
+  },
+  {
+    "ingredient": "bittergourd",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 3
+  },
+  {
+    "ingredient": "rhubarb",
+    "descriptor": [
+      "stem raw"
+    ],
+    "id": 4
+  },
+  {
+    "ingredient": "sprouts",
+    "descriptor": [
+      "moong uncooked"
+    ],
+    "id": 5
+  },
+  {
+    "ingredient": "sweetpotato",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 6
+  },
+  {
+    "ingredient": "tea leaves",
+    "descriptor": [
+      "bowl"
+    ],
+    "id": 7
+  },
+  {
+    "ingredient": "coconut",
+    "descriptor": [
+      "brown"
+    ],
+    "id": 8
+  },
+  {
+    "ingredient": "potato",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 9
+  },
+  {
+    "ingredient": "sourcream",
+    "descriptor": [
+      ""
+    ],
+    "id": 10
+  },
+  {
+    "ingredient": "pepper black",
+    "descriptor": [
+      ""
+    ],
+    "id": 11
+  },
+  {
+    "ingredient": "garam masala",
+    "descriptor": [
+      "powder"
+    ],
+    "id": 12
+  },
+  {
+    "ingredient": "sambar powder",
+    "descriptor": [
+      ""
+    ],
+    "id": 13
+  },
+  {
+    "ingredient": "watermelon",
+    "descriptor": [
+      ""
+    ],
+    "id": 14
+  },
+  {
+    "ingredient": "buttermilk",
+    "descriptor": [
+      ""
+    ],
+    "id": 15
+  },
+  {
+    "ingredient": "coriander",
+    "descriptor": [
+      "bundle"
+    ],
+    "id": 16
+  },
+  {
+    "ingredient": "mangosteen",
+    "descriptor": [
+      ""
+    ],
+    "id": 17
+  },
+  {
+    "ingredient": "habanero",
+    "descriptor": [
+      ""
+    ],
+    "id": 18
+  },
+  {
+    "ingredient": "turmeric",
+    "descriptor": [
+      "powder"
+    ],
+    "id": 19
+  },
+  {
+    "ingredient": "lemon",
+    "descriptor": [
+      ""
+    ],
+    "id": 20
+  },
+  {
+    "ingredient": "cheese",
+    "descriptor": [
+      "packet"
+    ],
+    "id": 21
+  },
+  {
+    "ingredient": "cucumber",
+    "descriptor": [
+      ""
+    ],
+    "id": 22
+  },
+  {
+    "ingredient": "yeast",
+    "descriptor": [
+      ""
+    ],
+    "id": 23
+  },
+  {
+    "ingredient": "sugar",
+    "descriptor": [
+      "white"
+    ],
+    "id": 24
+  },
+  {
+    "ingredient": "broccoli",
+    "descriptor": [
+      ""
+    ],
+    "id": 25
+  },
+  {
+    "ingredient": "pineapple",
+    "descriptor": [
+      ""
+    ],
+    "id": 26
+  },
+  {
+    "ingredient": "palak",
+    "descriptor": [
+      "bundle"
+    ],
+    "id": 27
+  },
+  {
+    "ingredient": "wine",
+    "descriptor": [
+      "bottle"
+    ],
+    "id": 28
+  },
+  {
+    "ingredient": "cumin",
+    "descriptor": [
+      "brown"
+    ],
+    "id": 29
+  },
+  {
+    "ingredient": "raisin",
+    "descriptor": [
+      ""
+    ],
+    "id": 30
+  },
+  {
+    "ingredient": "carrot",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 31
+  },
+  {
+    "ingredient": "pinenut",
+    "descriptor": [
+      ""
+    ],
+    "id": 32
+  },
+  {
+    "ingredient": "mango",
+    "descriptor": [
+      ""
+    ],
+    "id": 33
+  },
+  {
+    "ingredient": "fenugreek leaves",
+    "descriptor": [
+      ""
+    ],
+    "id": 34
+  },
+  {
+    "ingredient": "fenugreek seeds",
+    "descriptor": [
+      ""
+    ],
+    "id": 35
+  },
+  {
+    "ingredient": "paneer",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 36
+  },
+  {
+    "ingredient": "celery",
+    "descriptor": [
+      "raw"
+    ],
+    "id": 37
+  },
+  {
+    "ingredient": "sesame",
+    "descriptor": [
+      "seeds"
+    ],
+    "id": 38
+  },
+  {
+    "ingredient": "pav",
+    "descriptor": [
+      "ladi"
+    ],
+    "id": 39
+  },
+  {
+    "ingredient": "olive black",
+    "descriptor": [
+      ""
+    ],
+    "id": 40
+  },
+  {
+    "ingredient": "olive green",
+    "descriptor": [
+      ""
+    ],
+    "id": 41
+  },
+  {
+    "ingredient": "bread",
+    "descriptor": [
+      "loaf"
+    ],
+    "id": 42
+  },
+  {
+    "ingredient": "couscous",
+    "descriptor": [
+      "raw"
+    ],
+    "id": 43
+  },
+  {
+    "ingredient": "roti",
+    "descriptor": [
+      ""
+    ],
+    "id": 44
+  },
+  {
+    "ingredient": "radish",
+    "descriptor": [
+      "white"
+    ],
+    "id": 45
+  },
+  {
+    "ingredient": "peas",
+    "descriptor": [
+      ""
+    ],
+    "id": 46
+  },
+  {
+    "ingredient": "mushroom",
+    "descriptor": [
+      "button uncooked"
+    ],
+    "id": 47
+  },
+  {
+    "ingredient": "methi",
+    "descriptor": [
+      "bundle"
+    ],
+    "id": 48
+  },
+  {
+    "ingredient": "babycorn",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 49
+  },
+  {
+    "ingredient": "shrimp",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 50
+  },
+  {
+    "ingredient": "crab",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 51
+  },
+  {
+    "ingredient": "saffron",
+    "descriptor": [
+      "food raw"
+    ],
+    "id": 52
+  },
+  {
+    "ingredient": "aamchur powder",
+    "descriptor": [
+      ""
+    ],
+    "id": 53
+  },
+  {
+    "ingredient": "banana",
+    "descriptor": [
+      ""
+    ],
+    "id": 54
+  },
+  {
+    "ingredient": "banana raw",
+    "descriptor": [
+      ""
+    ],
+    "id": 55
+  },
+  {
+    "ingredient": "pumpkin",
+    "descriptor": [
+      "white raw"
+    ],
+    "id": 56
+  },
+  {
+    "ingredient": "kidneybean",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 57
+  },
+  {
+    "ingredient": "vermicelli",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 58
+  },
+  {
+    "ingredient": "grape green",
+    "descriptor": [
+      ""
+    ],
+    "id": 59
+  },
+  {
+    "ingredient": "grape black",
+    "descriptor": [
+      ""
+    ],
+    "id": 60
+  },
+  {
+    "ingredient": "pork",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 61
+  },
+  {
+    "ingredient": "barley",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 62
+  },
+  {
+    "ingredient": "soy sauce",
+    "descriptor": [
+      ""
+    ],
+    "id": 63
+  },
+  {
+    "ingredient": "shallot",
+    "descriptor": [
+      "green"
+    ],
+    "id": 64
+  },
+  {
+    "ingredient": "baking soda",
+    "descriptor": [
+      ""
+    ],
+    "id": 65
+  },
+  {
+    "ingredient": "cream",
+    "descriptor": [
+      "heave bowl"
+    ],
+    "id": 66
+  },
+  {
+    "ingredient": "whipped cream",
+    "descriptor": [
+      ""
+    ],
+    "id": 67
+  },
+  {
+    "ingredient": "salt",
+    "descriptor": [
+      ""
+    ],
+    "id": 68
+  },
+  {
+    "ingredient": "cocoa powder",
+    "descriptor": [
+      ""
+    ],
+    "id": 69
+  },
+  {
+    "ingredient": "coffee powder",
+    "descriptor": [
+      ""
+    ],
+    "id": 70
+  },
+  {
+    "ingredient": "coffee beans",
+    "descriptor": [
+      ""
+    ],
+    "id": 71
+  },
+  {
+    "ingredient": "rava",
+    "descriptor": [
+      "raw"
+    ],
+    "id": 72
+  },
+  {
+    "ingredient": "vinegar",
+    "descriptor": [
+      "white bottle"
+    ],
+    "id": 73
+  },
+  {
+    "ingredient": "corn",
+    "descriptor": [
+      "uncooked grains"
+    ],
+    "id": 74
+  },
+  {
+    "ingredient": "oil",
+    "descriptor": [
+      "food"
+    ],
+    "id": 75
+  },
+  {
+    "ingredient": "fennel",
+    "descriptor": [
+      "seeds"
+    ],
+    "id": 76
+  },
+  {
+    "ingredient": "corn cob",
+    "descriptor": [
+      ""
+    ],
+    "id": 77
+  },
+  {
+    "ingredient": "poppy",
+    "descriptor": [
+      "seeds"
+    ],
+    "id": 78
+  },
+  {
+    "ingredient": "chocolate",
+    "descriptor": [
+      ""
+    ],
+    "id": 79
+  },
+  {
+    "ingredient": "lamb",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 80
+  },
+  {
+    "ingredient": "turnip",
+    "descriptor": [
+      ""
+    ],
+    "id": 81
+  },
+  {
+    "ingredient": "cinnamon powder",
+    "descriptor": [
+      ""
+    ],
+    "id": 82
+  },
+  {
+    "ingredient": "cinnamon whole",
+    "descriptor": [
+      ""
+    ],
+    "id": 83
+  },
+  {
+    "ingredient": "tamarind",
+    "descriptor": [
+      "packet"
+    ],
+    "id": 84
+  },
+  {
+    "ingredient": "mint",
+    "descriptor": [
+      "bundle"
+    ],
+    "id": 85
+  },
+  {
+    "ingredient": "almond",
+    "descriptor": [
+      ""
+    ],
+    "id": 86
+  },
+  {
+    "ingredient": "tofu",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 87
+  },
+  {
+    "ingredient": "apricot",
+    "descriptor": [
+      ""
+    ],
+    "id": 88
+  },
+  {
+    "ingredient": "asafoetida",
+    "descriptor": [
+      "box"
+    ],
+    "id": 89
+  },
+  {
+    "ingredient": "nutmeg",
+    "descriptor": [
+      "dried"
+    ],
+    "id": 90
+  },
+  {
+    "ingredient": "kiwi",
+    "descriptor": [
+      ""
+    ],
+    "id": 91
+  },
+  {
+    "ingredient": "oregano",
+    "descriptor": [
+      "spice"
+    ],
+    "id": 92
+  },
+  {
+    "ingredient": "walnut",
+    "descriptor": [
+      "broken"
+    ],
+    "id": 93
+  },
+  {
+    "ingredient": "curd",
+    "descriptor": [
+      ""
+    ],
+    "id": 94
+  },
+  {
+    "ingredient": "apple",
+    "descriptor": [
+      "fruit"
+    ],
+    "id": 95
+  },
+  {
+    "ingredient": "bellpepper",
+    "descriptor": [
+      "green"
+    ],
+    "id": 96
+  },
+  {
+    "ingredient": "chicken",
+    "descriptor": [
+      "uncooked packet"
+    ],
+    "id": 97
+  },
+  {
+    "ingredient": "pesto",
+    "descriptor": [
+      ""
+    ],
+    "id": 98
+  },
+  {
+    "ingredient": "fish",
+    "descriptor": [
+      "uncooked packet"
+    ],
+    "id": 99
+  },
+  {
+    "ingredient": "milk",
+    "descriptor": [
+      ""
+    ],
+    "id": 100
+  },
+  {
+    "ingredient": "peanut",
+    "descriptor": [
+      "moongphali raw"
+    ],
+    "id": 101
+  },
+  {
+    "ingredient": "jaggery",
+    "descriptor": [
+      ""
+    ],
+    "id": 102
+  },
+  {
+    "ingredient": "kale",
+    "descriptor": [
+      ""
+    ],
+    "id": 103
+  },
+  {
+    "ingredient": "rice",
+    "descriptor": [
+      "white"
+    ],
+    "id": 104
+  },
+  {
+    "ingredient": "tomato",
+    "descriptor": [
+      ""
+    ],
+    "id": 105
+  },
+  {
+    "ingredient": "flour",
+    "descriptor": [
+      ""
+    ],
+    "id": 106
+  },
+  {
+    "ingredient": "eggplant",
+    "descriptor": [
+      "whole uncooked"
+    ],
+    "id": 107
+  },
+  {
+    "ingredient": "okra",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 108
+  },
+  {
+    "ingredient": "puffedrice",
+    "descriptor": [
+      ""
+    ],
+    "id": 109
+  },
+  {
+    "ingredient": "egg",
+    "descriptor": [
+      "whole white"
+    ],
+    "id": 110
+  },
+  {
+    "ingredient": "edamame",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 111
+  },
+  {
+    "ingredient": "beetroot",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 112
+  },
+  {
+    "ingredient": "ham",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 113
+  },
+  {
+    "ingredient": "mayonnaise",
+    "descriptor": [
+      ""
+    ],
+    "id": 114
+  },
+  {
+    "ingredient": "cabbage",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 115
+  },
+  {
+    "ingredient": "parsley",
+    "descriptor": [
+      "bundle"
+    ],
+    "id": 116
+  },
+  {
+    "ingredient": "lemongrass",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 117
+  },
+  {
+    "ingredient": "jalapeno",
+    "descriptor": [
+      "bottle"
+    ],
+    "id": 118
+  },
+  {
+    "ingredient": "cranberry sauce",
+    "descriptor": [
+      ""
+    ],
+    "id": 119
+  },
+  {
+    "ingredient": "sabudana",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 120
+  },
+  {
+    "ingredient": "mustard seeds",
+    "descriptor": [
+      "black"
+    ],
+    "id": 121
+  },
+  {
+    "ingredient": "garlic",
+    "descriptor": [
+      ""
+    ],
+    "id": 122
+  },
+  {
+    "ingredient": "lime",
+    "descriptor": [
+      ""
+    ],
+    "id": 123
+  },
+  {
+    "ingredient": "honey",
+    "descriptor": [
+      "bottle"
+    ],
+    "id": 124
+  },
+  {
+    "ingredient": "ketchup",
+    "descriptor": [
+      "bottle"
+    ],
+    "id": 125
+  },
+  {
+    "ingredient": "thyme",
+    "descriptor": [
+      "bundle"
+    ],
+    "id": 126
+  },
+  {
+    "ingredient": "curryleaf",
+    "descriptor": [
+      "bundle"
+    ],
+    "id": 127
+  },
+  {
+    "ingredient": "bayleaf",
+    "descriptor": [
+      ""
+    ],
+    "id": 128
+  },
+  {
+    "ingredient": "wheat flour",
+    "descriptor": [
+      ""
+    ],
+    "id": 129
+  },
+  {
+    "ingredient": "pista",
+    "descriptor": [
+      ""
+    ],
+    "id": 130
+  },
+  {
+    "ingredient": "star anise",
+    "descriptor": [
+      ""
+    ],
+    "id": 131
+  },
+  {
+    "ingredient": "cherry",
+    "descriptor": [
+      ""
+    ],
+    "id": 132
+  },
+  {
+    "ingredient": "ghee",
+    "descriptor": [
+      ""
+    ],
+    "id": 133
+  },
+  {
+    "ingredient": "ajwain",
+    "descriptor": [
+      ""
+    ],
+    "id": 134
+  },
+  {
+    "ingredient": "oliveoil",
+    "descriptor": [
+      "bottle"
+    ],
+    "id": 135
+  },
+  {
+    "ingredient": "fig",
+    "descriptor": [
+      ""
+    ],
+    "id": 136
+  },
+  {
+    "ingredient": "strawberry",
+    "descriptor": [
+      ""
+    ],
+    "id": 137
+  },
+  {
+    "ingredient": "cauliflower",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 138
+  },
+  {
+    "ingredient": "chickpea",
+    "descriptor": [
+      ""
+    ],
+    "id": 139
+  },
+  {
+    "ingredient": "beef",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 140
+  },
+  {
+    "ingredient": "cardamom",
+    "descriptor": [
+      "cooking spices"
+    ],
+    "id": 141
+  },
+  {
+    "ingredient": "clove",
+    "descriptor": [
+      ""
+    ],
+    "id": 142
+  },
+  {
+    "ingredient": "onion",
+    "descriptor": [
+      ""
+    ],
+    "id": 143
+  },
+  {
+    "ingredient": "plum",
+    "descriptor": [
+      ""
+    ],
+    "id": 144
+  },
+  {
+    "ingredient": "gooseberry",
+    "descriptor": [
+      ""
+    ],
+    "id": 145
+  },
+  {
+    "ingredient": "cashew nut",
+    "descriptor": [
+      ""
+    ],
+    "id": 146
+  },
+  {
+    "ingredient": "peach",
+    "descriptor": [
+      "fruits"
+    ],
+    "id": 147
+  },
+  {
+    "ingredient": "quinoa",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 148
+  },
+  {
+    "ingredient": "black chana",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 149
+  },
+  {
+    "ingredient": "bacon",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 150
+  },
+  {
+    "ingredient": "greenapple",
+    "descriptor": [
+      ""
+    ],
+    "id": 151
+  },
+  {
+    "ingredient": "basil",
+    "descriptor": [
+      "bundle"
+    ],
+    "id": 152
+  },
+  {
+    "ingredient": "bottlegourd",
+    "descriptor": [
+      "uncooked whole"
+    ],
+    "id": 153
+  },
+  {
+    "ingredient": "zucchini",
+    "descriptor": [
+      "uncooked whole"
+    ],
+    "id": 154
+  },
+  {
+    "ingredient": "tomato puree",
+    "descriptor": [
+      ""
+    ],
+    "id": 155
+  },
+  {
+    "ingredient": "green beans",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 156
+  },
+  {
+    "ingredient": "lobia",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 157
+  },
+  {
+    "ingredient": "urad dal yellow",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 158
+  },
+  {
+    "ingredient": "urad dal black",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 159
+  },
+  {
+    "ingredient": "toor dal",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 160
+  },
+  {
+    "ingredient": "masoor dal",
+    "descriptor": [
+      "uncooked"
+    ],
+    "id": 161
+  }
+]

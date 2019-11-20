@@ -1,0 +1,11 @@
+darknet/
+data_for_colab/
+data_for_local/
+Images/
+images_bbox/
+test_images/
+ideas.txt
+result.txt
+.DS_Store
+__pycache__/
+obj_2000.weights
