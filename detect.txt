@@ -1,2 +1,1 @@
-/Users/pratul/Desktop/food_test/test_images/home_test.jpg
-/Users/pratul/Desktop/food_test/data_for_local/multi_image_details/1-carrot-37.jpg
+/Users/pratul/Desktop/food_test/test_images/test.jpg

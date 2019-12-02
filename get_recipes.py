@@ -2,7 +2,7 @@ import pickle
 import json
 import subprocess
 
-reverse_index = pickle.load(open( "reverse_index.pickle", "rb" ))
+reverse_index = pickle.load(open("reverse_index.pickle", "rb"))
 
 f1 = open("detect.txt", "r")
 f2 = open("result.txt", "w")
@@ -16,7 +16,7 @@ cwd="darknet", stdin = f1, stdout = f2)
 
 f = open("result.txt", "r")
 predictions = f.readlines()
-print(predictions)
+
 query = set()
 for prediction in predictions:
     if not prediction.startswith("Enter Image Path:"):
@@ -30,8 +30,6 @@ result = set(reverse_index[query[0]])
 for i in query:
 	result = result & set(reverse_index[i])
 
-print(result)
-
 food_data = json.load(open("food_db.json", "r"))
 
 answer = []
@@ -43,11 +41,14 @@ for r in result:
 
 			hash_.add(dish['url'])
 
-print(query)
-
-print(len(answer))
+print()
+print("DETECTED", query)
+print()
+print(f"SHOWING {len(answer)} RECIPES")
+print("-" * 40)
+print()
 
 for i in answer:
-    print(i['dish_name'])
-    print(i['link'])
+    print("DISH NAME", i['dish_name'])
+    print("LINK", i['link'])
     print("=" * 40)
